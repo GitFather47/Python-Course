@@ -1,0 +1,6 @@
+def fnc(li):
+	li[0] = 10
+my_list=[1, 2, 3, 4]
+print("before function call ", my_list)
+fnc(my_list)
+print("after function call ", my_list)
