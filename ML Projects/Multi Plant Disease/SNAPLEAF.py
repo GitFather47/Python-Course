@@ -113,7 +113,7 @@ elif(app_mode=="About"):
                 
                 Dhaka,Bangladesh
                 
-                Email:  openworld41@gmail.com
+                Email:  openworld41@gmail.com 
 
 
                 """)
