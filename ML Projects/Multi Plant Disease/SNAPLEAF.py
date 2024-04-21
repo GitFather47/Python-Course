@@ -103,6 +103,7 @@ elif(app_mode=="About"):
                 - Tomato___Tomato_Yellow_Leaf_Curl_Virus
                 - Tomato___Tomato_mosaic_virus
                 - Tomato___healthy
+
                 
                 #### Credits:
                 Arnob Aich Anurag
@@ -114,6 +115,7 @@ elif(app_mode=="About"):
                 Dhaka,Bangladesh
                 
                 Email:  openworld41@gmail.com
+
 
                 """)
 
